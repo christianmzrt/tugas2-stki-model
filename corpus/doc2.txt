@@ -1,0 +1,1 @@
+Pembelajaran mesin merupakan subset dari kecerdasan buatan yang memungkinkan komputer belajar dari data secara otomatis. Algoritma pembelajaran mesin digunakan untuk mengenali pola dalam kumpulan data besar. Model pembelajaran mesin dilatih menggunakan data historis untuk membuat prediksi yang akurat.

@@ -1,0 +1,1 @@
+Jaringan saraf tiruan meniru cara kerja otak manusia dalam memproses informasi dan mengenali pola. Deep learning menggunakan jaringan saraf berlapis untuk menganalisis data gambar suara dan teks. Arsitektur jaringan saraf yang dalam mampu mengekstraksi fitur kompleks dari data mentah secara otomatis.

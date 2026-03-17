@@ -1,0 +1,1 @@
+Robotika menggabungkan kecerdasan buatan dengan mekanik untuk menciptakan mesin yang dapat bergerak dan bekerja secara mandiri. Robot cerdas digunakan dalam lini produksi pabrik eksplorasi luar angkasa dan layanan kesehatan. Sistem kendali robot menggunakan sensor dan algoritma untuk bernavigasi dan berinteraksi dengan lingkungan.

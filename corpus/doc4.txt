@@ -1,0 +1,1 @@
+Pemrosesan bahasa alami memungkinkan komputer memahami dan menghasilkan bahasa manusia secara otomatis. Teknologi pemrosesan bahasa digunakan dalam mesin penerjemah chatbot dan sistem tanya jawab otomatis. Model bahasa besar dilatih dengan miliaran teks untuk memahami konteks dan makna kalimat.

@@ -1,0 +1,1 @@
+Visi komputer adalah bidang kecerdasan buatan yang memungkinkan mesin memahami dan menganalisis gambar. Sistem visi komputer digunakan dalam kendaraan otonom pengenalan wajah dan inspeksi kualitas industri. Algoritma deteksi objek mampu mengidentifikasi dan melokalisasi benda dalam gambar secara real time.
